@@ -45,6 +45,19 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 <!--
 **Gitjm34/Gitjm34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
