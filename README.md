@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
 <!--
 **Gitjm34/Gitjm34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
