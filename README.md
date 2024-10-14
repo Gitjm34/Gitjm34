@@ -30,7 +30,6 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <  </thead>
   
-    </tr>
   </tbody>
 </table>
 <h3>My latest posts</h3>
