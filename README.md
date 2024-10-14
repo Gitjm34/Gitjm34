@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm JM  Software Engineer from :kr: <h1>
+<p>Welcome to my page! </br> I'm JM  Software Engineer from :kr: 
 <div align=center><h1>📚 STACKS</h1></div>
 <p>
  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
